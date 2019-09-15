@@ -1,4 +1,5 @@
-# A simple web service that takes in a bunch of parameters and determines the probability that a large dip will recover
+# The analyst
+A simple web service that takes in a bunch of parameters and determines the probability that a large dip will recover
 
 ## Running Jupyter NoteBook  
   ```
