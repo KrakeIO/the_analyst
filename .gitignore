@@ -1,0 +1,6 @@
+/venv/*
+*.nbconvert.ipynb
+/.ipynb_checkpoints/*
+*.png
+*.pyc
+*.pid
